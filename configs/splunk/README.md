@@ -4,5 +4,5 @@ Splunk works as the aggregator of the collected, centralized, and analyzed logs 
 
 
 
-The way I have learned to understand how this application works with the conjunction of Sysmon through an analogy is: Sysmon and the other serving data sources are like the different areas within our brain that are responsible for holding specific types od data-visual memory here, auditory processing there. While zooming out and taking a collective approach, the brain (Splunk) works to capture all the information and make sense of that data, placing it under an aggregated, organized, and automated process that outs it all together into actional intelligence that we can then use.
+The way I've learned to understand how this application works with the conjunction of Sysmon through an analogy is: Sysmon and the other serving data sources are like the different areas within our brain that are responsible for holding specific types od data-visual memory here, auditory processing there. While zooming out and taking a collective approach, the brain (Splunk) works to capture all the information and make sense of that data, placing it under an aggregated, organized, and automated process that outs it all together into actional intelligence that we can then use.
 
