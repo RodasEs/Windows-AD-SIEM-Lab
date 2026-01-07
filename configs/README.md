@@ -1,4 +1,4 @@
-This folder will be responsible in holding all Sysmon logging
+This folder will be responsible in holding all Sysmon logging.
 
 
 
