@@ -49,6 +49,3 @@ Driver/Image Activity:
 
 * Event ID 6: Driver loaded- Logs when system drivers are loaded - helps detect rootkits or malicious drivers with deep system access
 * Event ID 7: Image loaded (DLL/driver loaded by process)- Logs when programs load libraries (DLLs) - helps catch malware injecting malicious code into legitimate programs.
-
-
-
